@@ -17,5 +17,7 @@ int main(int argc, char const *argv[]) {
     array.push_back(i);
   }
 
+
+ cout << "hola";
   return 0;
 }
